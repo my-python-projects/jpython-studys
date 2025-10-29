@@ -1,8 +1,8 @@
-[🇺🇸 English](#english-version) | [🇧🇷 Português](#versão-em-português)
+[🇺🇸 English](#english-version) | [🇧🇷 Português](#portuguese-version)
 
 ---
 
-### 🛡️ English Version
+### 🛡️ <a name="english-version"></a> English Version
 
 ---
 
@@ -123,7 +123,7 @@ This exercise is free for educational use and part of **Intermediate Python** pr
 
 ------
 
-### 🛡️ Versão em Português
+### 🛡️ <a name="portuguese-version"></a> Versão em Português
 
 ---
 
