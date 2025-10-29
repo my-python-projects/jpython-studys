@@ -1,0 +1,22 @@
+# Ignore all .log files in any folder
+**/*.log
+
+# Optional: Common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pycache/
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
