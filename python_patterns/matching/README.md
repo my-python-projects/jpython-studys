@@ -1,4 +1,4 @@
-🌎 Leia em [Português](README.md)
+🌎 Leia em [Português](#portuguese-version)
 
 # 🧩 <a name="english-version"></a>Challenge: Pattern Matching with `match` in Python 3.10+
 
