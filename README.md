@@ -29,12 +29,12 @@ This repository is dedicated to **studying, practicing, and revisiting exercises
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jprogram/jpython-studys.git
+   git clone https://github.com/jprogram/jpy-studies.git
    ```
 2. Navigate into the project folder:
 
    ```bash
-   cd jpython-studys
+   cd jpy-studies
    ```
 3. Explore the folders — each one contains a different topic, challenge, or exercise.
 
@@ -73,12 +73,12 @@ Este repositório é dedicado a **estudar, praticar e relembrar exercícios e de
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/jprogram/jpython-studys.git
+   git clone https://github.com/jprogram/jpy-studies.git
    ```
 2. Navegue até a pasta do projeto:
 
    ```bash
-   cd jpython-studys
+   cd jpy-studies
    ```
 3. Explore as pastas — cada uma contém um tópico, desafio ou exercício diferente.
 
