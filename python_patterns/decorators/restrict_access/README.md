@@ -1,12 +1,8 @@
-[🇺🇸 English](#english-version) | [🇧🇷 Português](#portuguese-version)
+🌎 Leia em [Português](#portuguese-version)
 
----
+----------
 
-### 🛡️ <a name="english-version"></a> English Version
-
----
-
-# 🧭 Challenge: `restrict_access` Decorator (Permission Control in Functions)
+# 🧭 <a name="english-version"></a>Challenge: `restrict_access` Decorator (Permission Control in Functions)
 
 ## 📘 Description
 
@@ -123,11 +119,11 @@ This exercise is free for educational use and part of **Intermediate Python** pr
 
 ------
 
-### 🛡️ <a name="portuguese-version"></a> Versão em Português
+🌍 Read this in [English](#english-version).
 
----
+-----
 
-# 🧭 Desafio: Decorador `restrict_access` (Controle de Permissões em Funções)
+# 🧭 <a name="portuguese-version"></a>Desafio: Decorador `restrict_access` (Controle de Permissões em Funções)
 
 ## 📘 Descrição
 
