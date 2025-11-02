@@ -1,4 +1,4 @@
-# 🐍 jpython-studys
+# 🐍 jpy-studies
 
 [🇺🇸 English](#english-version) | [🇧🇷 Português](#portuguese-version)
 
