@@ -6,8 +6,8 @@ from typing import Generator
 @contextmanager
 def TempFile(content: str, dir_path: str = None) -> Generator[str, None, None]:
     """
-    Cria um arquivo temporário, escreve o conteúdo
-    e remove automaticamente ao sair do contexto.
+    Creates a temporary file, writes the content
+    and automatically removes it when exiting the context.
     """
     temp = tempfile.NamedTemporaryFile(
         mode="w",
@@ -19,7 +19,7 @@ def TempFile(content: str, dir_path: str = None) -> Generator[str, None, None]:
     try:
         temp.write(content)
         temp.flush()
-        yield temp.name  # <-- retorna o caminho
+        yield temp.name  # returns the path
     finally:
         temp.close()
         os.remove(temp.name)
